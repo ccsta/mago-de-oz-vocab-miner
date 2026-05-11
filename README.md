@@ -18,5 +18,6 @@ utilizando como base as letras da banda Mägo de Oz.
 2. Execute o script:
    ```bash
    python minerador_mago.py
-   
+
+## SEGUE O EXEMPLO DE COMO O CÓDIGO FUNCIONA   
 <img width="923" height="666" alt="Captura de tela 2026-05-11 161121" src="https://github.com/user-attachments/assets/24d9a0e6-b5b9-4265-b472-4ceb97ddb1ce" />
